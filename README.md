@@ -41,11 +41,11 @@ Mohamed Ibrahim Abdelmawgoud
 ## Screenshots
 
 ### Home Screen
-![Home](screenshots/home_screen.png)
-![Home](screenshots/home_screen2.png)
+![Home](screenshots/home_screen.jpg)
+![Home](screenshots/home_screen2.jpg)
 
 ### Food Details Screen
-![Details](screenshots/food_details.png)
+![Details](screenshots/food_details.jpg)
 
 ### Exit Dialog 
-![Home](screenshots/exit_dialog.png)
+![Home](screenshots/exit_dialog.jpg)
