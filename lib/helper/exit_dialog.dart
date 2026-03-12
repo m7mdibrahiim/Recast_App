@@ -32,7 +32,7 @@ void showExitDialog(BuildContext context) {
               ),
               SizedBox(height: 10.h),
               Text(
-                "هل تريد الخروج؟",
+                " Do you want to exit? ",
                 style: TextStyle(
                   fontSize: 12.sp,
                   fontWeight: FontWeight.bold,
@@ -41,11 +41,11 @@ void showExitDialog(BuildContext context) {
               ),
               SizedBox(height: 8.h),
               Text(
-                "سيتم تسجيل خروجك من التطبيق",
+                "You will be logged out of the application",
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  color: Colors.brown,
-                  fontSize: 10.sp,
+                  color: Colors.brown.shade400,
+                  fontSize: 8.sp,
                 ),
               ),
               SizedBox(height: 20.h),
@@ -63,7 +63,7 @@ void showExitDialog(BuildContext context) {
                         ),
                       ),
                       child: const Text(
-                        "إلغاء",
+                        "Cancel",
                         style: TextStyle(
                           color: Colors.brown,
                         ),
@@ -84,7 +84,7 @@ void showExitDialog(BuildContext context) {
                         elevation: 0,
                       ),
                       child: const Text(
-                        "خروج",
+                        "Log Out",
                         style: TextStyle(
                           color: Colors.white,
                         ),

@@ -36,3 +36,16 @@ lib
 ## Author
 
 Mohamed Ibrahim Abdelmawgoud
+
+
+## Screenshots
+
+### Home Screen
+![Home](screenshots/home_screen.png)
+![Home](screenshots/home_screen2.png)
+
+### Food Details Screen
+![Details](screenshots/food_details.png)
+
+### Exit Dialog 
+![Home](screenshots/exit_dialog.png)
