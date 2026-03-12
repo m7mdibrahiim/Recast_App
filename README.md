@@ -1,16 +1,38 @@
-# recast_app
+# Flutter Restaurant UI
 
-A new Flutter project.
+This project recreates a restaurant mobile UI from a Figma design using Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Pixel-perfect UI implementation
+* Dynamic food menu using local data models
+* Navigation to food details page
+* Provider state management
+* Responsive layout
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* Provider
+* flutter_screenutil
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+lib
+├── helper
+├── models
+├── providers
+├── screens
+├── widgets
+└── main.dart
+
+## How to Run
+
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run the app using `flutter run`
+
+## Author
+
+Mohamed Ibrahim Abdelmawgoud
